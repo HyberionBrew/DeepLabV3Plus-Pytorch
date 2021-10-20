@@ -1,5 +1,7 @@
 # DeepLabv3Plus-Pytorch
 
+This fork adds quantization and prunning.
+
 DeepLabv3, DeepLabv3+ with pretrained models for Pascal VOC & Cityscapes.
 
 ## Quick Start 
